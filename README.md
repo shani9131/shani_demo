@@ -1,4 +1,4 @@
 # shani_demo
 this is my first git repository.
 <br>
-author-shani kushwaha
+author-shani sunny kushwaha
